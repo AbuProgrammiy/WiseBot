@@ -1,0 +1,6 @@
+@WiseBot.API_HostAddress = http://localhost:5077
+
+GET {{WiseBot.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
